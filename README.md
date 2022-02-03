@@ -1,12 +1,12 @@
-## MinimoChallenge
-Desafio de Programação - Minimo 2021
+## KompreJuntoChallenge
+Desafio de Programação - KompreJunto 2022
 
 
 Olá!! 
 
-Se você está aqui, provavelmente está participando do processo seletivo da Minimo! Seja muito bem-vindo, e esperamos que goste do desafio que vamos propor. Pensamos nesta etapa como meio de tornar esta experiência mais construtiva para você e também para nos ajudar a avaliar o seu alinhamento com os valores da empresa.
+Se você está aqui, provavelmente está participando do processo seletivo da Komprejunto! Seja muito bem-vindo, e esperamos que goste do desafio que vamos propor. Pensamos nesta etapa como meio de tornar esta experiência mais construtiva para você e também para nos ajudar a avaliar o seu alinhamento com os valores da empresa.
 
-Como dissemos na descrição da vaga no site da Preparo, nós não esperamos nenhum conhecimento técnico prévio de nenhum dos candidatos. Mas uma coisa que valorizamos muito por aqui, é a **capacidade de aprender** e a **autonomia** de cada um. No dia a dia da empresa você irá se deparar com inúmeras situações onde terá que:
+Como dissemos na descrição da vaga, nós não esperamos nenhum conhecimento técnico prévio de nenhum dos candidatos. Mas uma coisa que valorizamos muito por aqui, é a **capacidade de aprender** e a **autonomia** de cada um. No dia a dia da empresa você irá se deparar com inúmeras situações onde terá que:
 
 * entender uma necessidade do cliente
 * converter esta necessidade em requisitos técnicos
@@ -21,7 +21,9 @@ Pensando nisso, desenvolvemos este desafio, que consta de uma simulação de uma
 
 # O Desafio
 ## Descrição do case
-Imagine-se trabalhando para um determinado cliente da Minimo, cuja área de atuação é o **e-commerce**, chamado **Vendas Mil**. Este cliente possui diversos parceiros de logística para entregar os seus produtos na casa de seus clientes, e cada parceiro possui uma maneira diferente de calcular o preço cobrado pelo envio dos pedidos. Um deles é o **Logística Inteligente** e ele cobra do **Vendas Mil** por meio de duas frentes diferentes: Logística e Frete. A soma das duas frentes compõe o preço final que será cobrado por pedido. O preço é formado a partir da seguinte regra: 
+Um dos principais desafios da implementação de um sistema de **e-commerce**, é a gestão dos diversos fornecedores de frete e logística de sua carteira. Cada parceiro possui uma maneira diferente de calcular o preço cobrado pelo envio dos pedidos, bem como o prazo estipulado para a entrega, e todas as opções devem ser apresentadas ao cliente no momento de efetuar a compra para que ele escolha a opção que lhe é mais conveniente. A sua missão é desenvolver um software/algorítmo que sistematize o cálculo do preço cobrado por um dos fornecedores da komprejunto, para posterior implementação no site da empresa! 
+
+Abaixo encontra-se o método de cobrança por pacote embalado e enviado pela **Logística Inteligente**. Este fornecedor cobra da Komprejunto por meio de duas frentes diferentes: Logística e Frete. A soma das duas frentes compõe o preço final que será cobrado por pedido. O preço é formado a partir da seguinte regra: 
 
 ### Custo de Logística:
 O custo de logística é o preço cobrado para receber, empacotar, armazenar e enviar os pedidos. Basicamente, ele depende do peso e das dimensões do produto e da quantidade de itens comprados. As instruções de cobrança foram enviadas pelo fornecedor e foram baseadas em uma simulação de 150 pedidos contendo de 1 a 2 unidades de produto por pedido. Segue o e-mail: 
