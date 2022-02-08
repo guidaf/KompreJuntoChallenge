@@ -70,7 +70,7 @@ A seguir constam casos de teste para serem usados na validação da sua soluçã
 * CEP: 05612-050 
 
 **Saída esperada**:
-* R$ (Insira o valor obtido por sua solução)
+* R$ 13,01
 
 #### Caso 2:
 **Parâmetros**: 
@@ -80,7 +80,7 @@ A seguir constam casos de teste para serem usados na validação da sua soluçã
 * CEP: 04520-010 
 
 **Saída esperada**:
-* R$ (Insira o valor obtido por sua solução)
+* R$ 18,98
 
 #### Caso 3:
 **Parâmetros**: 
@@ -90,39 +90,39 @@ A seguir constam casos de teste para serem usados na validação da sua soluçã
 * CEP: 07115-000 
 
 **Saída esperada**:
-* R$ (Insira o valor obtido por sua solução)
+* R$ 16,96
 
 Além dos casos acima, desenvolva mais 3 casos para testar sua aplicação. Insira abaixo os valores que você usou para cada caso de teste que você desenvolveu:
 
 #### Caso 4 (desenvolvido pelo cadidato):
 **Parâmetros**: 
-* Peso do produto: 
-* Dimensões do produto: 
-* Quantidade de produtos: .
-* CEP:  
+* Peso do produto: 13000g
+* Dimensões do produto: 2 x 3 x 0,5m
+* Quantidade de produtos: 10un.
+* CEP: 06142-000
 
 **Saída esperada**:
-* R$XX,XX
+* R$ 147,06
 
 #### Caso 5 (desenvolvido pelo cadidato):
 **Parâmetros**: 
-* Peso do produto: 
-* Dimensões do produto: 
-* Quantidade de produtos: 
-* CEP: 
+* Peso do produto: 7000g
+* Dimensões do produto: 1,5 x 1,2 x 2,5m
+* Quantidade de produtos: 3un.
+* CEP: 11630-000
 
 **Saída esperada**:
-* R$XX,XX
+* R$ 43,32
 
 #### Caso 6 (desenvolvido pelo cadidato):
 **Parâmetros**: 
-* Peso do produto: 
-* Dimensões do produto: 
-* Quantidade de produtos: 
-* CEP: 
+* Peso do produto: 30000g
+* Dimensões do produto: 0,3 x 0,3 x 0,3m 
+* Quantidade de produtos: 2un. 
+* CEP: 13183-006 
 
 **Saída esperada**:
-* R$XX,XX
+* R$ 213,5
 
 ### Forma de entrega: 
 Subir a sua solução em um repósitório no GitHub e nos avisar por e-mail (bruno.porto@minimo.com.br).
